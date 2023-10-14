@@ -35,7 +35,7 @@
 
 <h2 align=center> 👨🏻‍💻 How to get started? </h2>
 
-You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
+You can refer to the following articles on **_basics of Git and GitHub and also contact the Project Mentors, in case you are stuck_**:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
